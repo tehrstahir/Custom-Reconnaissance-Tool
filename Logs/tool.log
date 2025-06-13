@@ -1,0 +1,116 @@
+2025-06-12 19:25:39,875 - INFO - Starting subdomain enumeration for testphp.vulnweb.com
+2025-06-12 19:25:39,875 - INFO - [*] Querying crt.sh for testphp.vulnweb.com
+2025-06-12 19:25:40,865 - ERROR - Failed to fetch data from crt.sh
+2025-06-12 19:25:40,865 - INFO - [+] Found 0 subdomains from crt.sh
+2025-06-12 19:25:40,865 - INFO - [*] Querying HackerTarget for testphp.vulnweb.com
+2025-06-12 19:25:42,121 - INFO - [+] Found 1 subdomains from HackerTarget
+2025-06-12 19:25:42,121 - INFO - Subdomains found for testphp.vulnweb.com: 1
+2025-06-12 19:25:42,122 - INFO - Starting WHOIS lookup for testphp.vulnweb.com
+2025-06-12 19:25:44,128 - INFO - WHOIS lookup successful.
+2025-06-12 19:25:44,128 - INFO - WHOIS data retrieved for testphp.vulnweb.com
+2025-06-12 19:25:44,128 - INFO - Starting DNS enumeration for testphp.vulnweb.com
+2025-06-12 19:25:46,308 - INFO - DNS records for testphp.vulnweb.com: {'A': ['44.228.249.3'], 'MX': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN MX'], 'TXT': ['"google-site-verification:toEctYsulNIxgraKk7H3z58PCyz2IOCc36pIupEPmYQ"'], 'NS': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN NS'], 'CNAME': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN CNAME'], 'SOA': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN SOA']}
+2025-06-12 19:25:46,308 - INFO - Starting full port scan on testphp.vulnweb.com
+2025-06-12 19:26:48,785 - INFO - Open ports on testphp.vulnweb.com: [80]
+2025-06-12 19:26:48,785 - INFO - Starting banner grabbing on testphp.vulnweb.com
+2025-06-12 19:26:49,732 - INFO - Banners grabbed: {80: 'HTTP Banner: nginx/1.19.0'}
+2025-06-12 19:26:49,732 - INFO - Starting technology detection on http://testphp.vulnweb.com
+2025-06-12 19:26:50,630 - INFO - Technologies detected on http://testphp.vulnweb.com: ['DreamWeaver', 'Nginx', 'Ubuntu', 'PHP']
+2025-06-12 19:48:10,408 - INFO - Starting subdomain enumeration for testphp.vulnweb.com
+2025-06-12 19:48:10,408 - INFO - [*] Querying crt.sh for testphp.vulnweb.com
+2025-06-12 19:48:11,265 - INFO - [+] Found 0 subdomains from crt.sh
+2025-06-12 19:48:11,265 - INFO - [*] Querying HackerTarget for testphp.vulnweb.com
+2025-06-12 19:48:12,373 - INFO - [+] Found 1 subdomains from HackerTarget
+2025-06-12 19:48:12,373 - INFO - Subdomains found for testphp.vulnweb.com: 1
+2025-06-12 19:48:12,373 - INFO - Starting WHOIS lookup for testphp.vulnweb.com
+2025-06-12 19:48:14,178 - INFO - WHOIS lookup successful.
+2025-06-12 19:48:14,179 - INFO - WHOIS data retrieved for testphp.vulnweb.com
+2025-06-12 19:48:14,179 - INFO - Starting DNS enumeration for testphp.vulnweb.com
+2025-06-12 19:48:14,863 - INFO - DNS records for testphp.vulnweb.com: {'A': ['44.228.249.3'], 'MX': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN MX'], 'TXT': ['"google-site-verification:toEctYsulNIxgraKk7H3z58PCyz2IOCc36pIupEPmYQ"'], 'NS': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN NS'], 'CNAME': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN CNAME'], 'SOA': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN SOA']}
+2025-06-12 19:48:14,863 - INFO - Starting full port scan on testphp.vulnweb.com
+2025-06-12 19:49:20,590 - INFO - Open ports on testphp.vulnweb.com: [80]
+2025-06-12 19:49:20,590 - INFO - Starting banner grabbing on testphp.vulnweb.com
+2025-06-12 19:49:21,193 - INFO - Banners grabbed: {80: 'HTTP Banner: nginx/1.19.0'}
+2025-06-12 19:49:21,193 - INFO - Starting technology detection on http://testphp.vulnweb.com
+2025-06-12 19:49:21,950 - INFO - Technologies detected on http://testphp.vulnweb.com: ['PHP', 'Ubuntu', 'Nginx', 'DreamWeaver']
+2025-06-12 19:50:29,651 - INFO - Starting subdomain enumeration for testphp.vulnweb.com
+2025-06-12 19:50:29,651 - INFO - [*] Querying crt.sh for testphp.vulnweb.com
+2025-06-12 19:50:30,361 - INFO - [+] Found 0 subdomains from crt.sh
+2025-06-12 19:50:30,361 - INFO - [*] Querying HackerTarget for testphp.vulnweb.com
+2025-06-12 19:50:31,432 - INFO - [+] Found 1 subdomains from HackerTarget
+2025-06-12 19:50:31,433 - INFO - Subdomains found for testphp.vulnweb.com: 1
+2025-06-12 19:50:31,433 - INFO - Starting WHOIS lookup for testphp.vulnweb.com
+2025-06-12 19:50:33,432 - INFO - WHOIS lookup successful.
+2025-06-12 19:50:33,433 - INFO - WHOIS data retrieved for testphp.vulnweb.com
+2025-06-12 19:50:33,433 - INFO - Starting DNS enumeration for testphp.vulnweb.com
+2025-06-12 19:50:33,942 - INFO - DNS records for testphp.vulnweb.com: {'A': ['44.228.249.3'], 'MX': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN MX'], 'TXT': ['"google-site-verification:toEctYsulNIxgraKk7H3z58PCyz2IOCc36pIupEPmYQ"'], 'NS': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN NS'], 'CNAME': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN CNAME'], 'SOA': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN SOA']}
+2025-06-12 19:50:33,942 - INFO - Starting full port scan on testphp.vulnweb.com
+2025-06-12 19:50:58,700 - INFO - Starting subdomain enumeration for testphp.vulnweb.com
+2025-06-12 19:50:58,700 - INFO - [*] Querying crt.sh for testphp.vulnweb.com
+2025-06-12 19:50:59,498 - INFO - [+] Found 0 subdomains from crt.sh
+2025-06-12 19:50:59,498 - INFO - [*] Querying HackerTarget for testphp.vulnweb.com
+2025-06-12 19:51:00,561 - INFO - [+] Found 1 subdomains from HackerTarget
+2025-06-12 19:51:00,567 - INFO - Subdomains found for testphp.vulnweb.com: 1
+2025-06-12 19:51:00,567 - INFO - Starting WHOIS lookup for testphp.vulnweb.com
+2025-06-12 19:51:02,116 - INFO - WHOIS lookup successful.
+2025-06-12 19:51:02,116 - INFO - WHOIS data retrieved for testphp.vulnweb.com
+2025-06-12 19:51:02,116 - INFO - Starting DNS enumeration for testphp.vulnweb.com
+2025-06-12 19:51:02,614 - INFO - DNS records for testphp.vulnweb.com: {'A': ['44.228.249.3'], 'MX': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN MX'], 'TXT': ['"google-site-verification:toEctYsulNIxgraKk7H3z58PCyz2IOCc36pIupEPmYQ"'], 'NS': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN NS'], 'CNAME': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN CNAME'], 'SOA': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN SOA']}
+2025-06-12 19:51:02,614 - INFO - Starting full port scan on testphp.vulnweb.com
+2025-06-12 19:52:05,922 - INFO - Open ports on testphp.vulnweb.com: [80]
+2025-06-12 19:52:05,922 - INFO - Starting banner grabbing on testphp.vulnweb.com
+2025-06-12 19:52:06,504 - INFO - Banners grabbed: {80: 'HTTP Banner: nginx/1.19.0'}
+2025-06-12 19:52:06,504 - INFO - Starting technology detection on http://testphp.vulnweb.com
+2025-06-12 19:52:07,298 - INFO - Technologies detected on http://testphp.vulnweb.com: ['Ubuntu', 'Nginx', 'PHP', 'DreamWeaver']
+2025-06-12 20:03:24,638 - INFO - Starting subdomain enumeration for testphp.vulnweb.com
+2025-06-12 20:03:24,638 - INFO - [*] Querying crt.sh for testphp.vulnweb.com
+2025-06-12 20:03:25,422 - INFO - [+] Found 0 subdomains from crt.sh
+2025-06-12 20:03:25,422 - INFO - [*] Querying HackerTarget for testphp.vulnweb.com
+2025-06-12 20:03:26,632 - INFO - [+] Found 1 subdomains from HackerTarget
+2025-06-12 20:03:26,632 - INFO - Subdomains found for testphp.vulnweb.com: 1
+2025-06-12 20:03:26,632 - INFO - Starting WHOIS lookup for testphp.vulnweb.com
+2025-06-12 20:03:28,443 - INFO - WHOIS lookup successful.
+2025-06-12 20:03:28,443 - INFO - WHOIS data retrieved for testphp.vulnweb.com
+2025-06-12 20:03:28,443 - INFO - Starting DNS enumeration for testphp.vulnweb.com
+2025-06-12 20:03:28,638 - INFO - DNS records for testphp.vulnweb.com: {'A': ['44.228.249.3'], 'MX': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN MX'], 'TXT': ['"google-site-verification:toEctYsulNIxgraKk7H3z58PCyz2IOCc36pIupEPmYQ"'], 'NS': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN NS'], 'CNAME': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN CNAME'], 'SOA': ['Error: The DNS response does not contain an answer to the question: testphp.vulnweb.com. IN SOA']}
+2025-06-12 20:03:28,638 - INFO - Starting full port scan on testphp.vulnweb.com
+2025-06-12 20:04:35,430 - INFO - Open ports on testphp.vulnweb.com: [80]
+2025-06-12 20:04:35,430 - INFO - Starting banner grabbing on testphp.vulnweb.com
+2025-06-12 20:04:36,018 - INFO - Banners grabbed: {80: 'HTTP Banner: nginx/1.19.0'}
+2025-06-12 20:04:36,018 - INFO - Starting technology detection on http://testphp.vulnweb.com
+2025-06-12 20:04:36,809 - INFO - Technologies detected on http://testphp.vulnweb.com: ['Nginx', 'DreamWeaver', 'Ubuntu', 'PHP']
+2025-06-12 20:12:47,828 - INFO - Starting subdomain enumeration for google.com
+2025-06-12 20:12:47,828 - INFO - [*] Querying crt.sh for google.com
+2025-06-12 20:12:50,370 - INFO - [+] Found 399 subdomains from crt.sh
+2025-06-12 20:12:50,370 - INFO - [*] Querying HackerTarget for google.com
+2025-06-12 20:12:51,937 - WARNING - HackerTarget returned an error or rate limit.
+2025-06-12 20:12:51,937 - INFO - [+] Found 0 subdomains from HackerTarget
+2025-06-12 20:12:51,939 - INFO - Subdomains found for google.com: 399
+2025-06-12 20:12:51,939 - INFO - Starting WHOIS lookup for google.com
+2025-06-12 20:12:54,271 - INFO - WHOIS lookup successful.
+2025-06-12 20:12:54,271 - INFO - WHOIS data retrieved for google.com
+2025-06-12 20:12:54,272 - INFO - Starting DNS enumeration for google.com
+2025-06-12 20:12:55,305 - INFO - DNS records for google.com: {'A': ['142.250.181.110'], 'MX': ['10 smtp.google.com.'], 'TXT': ['"docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e"', '"google-site-verification=4ibFUgB-wXLQ_S7vsXVomSTVamuOXBiVAzpR5IZ87D0"', '"globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8="', '"google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ"', '"apple-domain-verification=30afIBcvSuDV2PLX"', '"google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o"', '"v=spf1 include:_spf.google.com ~all"', '"cisco-ci-domain-verification=47c38bc8c4b74b7233e9053220c1bbe76bcc1cd33c7acf7acd36cd6a5332004b"', '"MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB"', '"onetrust-domain-verification=de01ed21f2fa4d8781cbc3ffb89cf4ef"', '"facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95"', '"docusign=1b0a6754-49b1-4db5-8540-d2c12664b289"'], 'NS': ['ns1.google.com.', 'ns3.google.com.', 'ns4.google.com.', 'ns2.google.com.'], 'CNAME': ['Error: The DNS response does not contain an answer to the question: google.com. IN CNAME'], 'SOA': ['ns1.google.com. dns-admin.google.com. 770068895 900 900 1800 60']}
+2025-06-12 20:12:55,306 - INFO - Starting full port scan on google.com
+2025-06-12 20:14:04,730 - INFO - Open ports on google.com: [80, 443]
+2025-06-12 20:14:04,730 - INFO - Starting banner grabbing on google.com
+2025-06-12 20:14:06,924 - INFO - Banners grabbed: {80: 'HTTP Banner: gws', 443: 'HTTPS Banner: gws'}
+2025-06-12 20:14:06,924 - INFO - Starting technology detection on https://google.com
+2025-06-12 20:14:08,332 - INFO - Technologies detected on https://google.com: ['Google Web Server']
+2025-06-12 20:21:14,487 - INFO - Starting subdomain enumeration for youtube.com
+2025-06-12 20:21:14,488 - INFO - [*] Querying crt.sh for youtube.com
+2025-06-12 20:21:19,867 - INFO - [+] Found 112 subdomains from crt.sh
+2025-06-12 20:21:19,867 - INFO - [*] Querying HackerTarget for youtube.com
+2025-06-12 20:21:21,179 - INFO - [+] Found 501 subdomains from HackerTarget
+2025-06-12 20:21:21,182 - INFO - Subdomains found for youtube.com: 612
+2025-06-12 20:21:21,182 - INFO - Starting WHOIS lookup for youtube.com
+2025-06-12 20:21:23,428 - INFO - WHOIS lookup successful.
+2025-06-12 20:21:23,428 - INFO - WHOIS data retrieved for youtube.com
+2025-06-12 20:21:23,428 - INFO - Starting DNS enumeration for youtube.com
+2025-06-12 20:21:24,035 - INFO - DNS records for youtube.com: {'A': ['172.217.17.46'], 'MX': ['0 smtp.google.com.'], 'TXT': ['"google-site-verification=QtQWEwHWM8tHiJ4s-jJWzEQrD_fF3luPnpzNDH-Nw-w"', '"v=spf1 include:google.com mx -all"', '"facebook-domain-verification=64jdes7le4h7e7lfpi22rijygx58j1"'], 'NS': ['ns2.google.com.', 'ns1.google.com.', 'ns4.google.com.', 'ns3.google.com.'], 'CNAME': ['Error: The DNS response does not contain an answer to the question: youtube.com. IN CNAME'], 'SOA': ['ns1.google.com. dns-admin.google.com. 770068895 900 900 1800 60']}
+2025-06-12 20:21:24,035 - INFO - Starting full port scan on youtube.com
+2025-06-12 20:22:31,545 - INFO - Open ports on youtube.com: [80, 443]
+2025-06-12 20:22:31,545 - INFO - Starting banner grabbing on youtube.com
+2025-06-12 20:22:33,883 - INFO - Banners grabbed: {80: 'HTTP Banner: ESF', 443: 'HTTPS Banner: ESF'}
+2025-06-12 20:22:33,884 - INFO - Starting technology detection on https://youtube.com
+2025-06-12 20:22:35,890 - INFO - Technologies detected on https://youtube.com: ['Google Font API']
